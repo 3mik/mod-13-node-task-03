@@ -1,0 +1,24 @@
+{
+  "name": "mod-13-node-task-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3mik/mod-13-node-task-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3mik/mod-13-node-task-03/issues"
+  },
+  "homepage": "https://github.com/3mik/mod-13-node-task-03#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
